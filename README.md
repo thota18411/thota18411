@@ -7,7 +7,7 @@
 <h2>Reach me on social media</h2>
 <a href="https://github.com/thota18411" target="_blank"><img src="git.png"  width="50" heigh="50" /></a>
 <a href="https://www.linkedin.com/in/tho-tran-anh-6954001ba/" target="_blank"><img src="link.png"  width="50" heigh="50" /></a>
-<a href="https://www.instagram.com/___h5_/" target="_blank"><img src="in.png"  width="50" heigh="50" /></a>
+<a href="https://www.instagram.com/___h5_/" target="_blank"><img src="in.png"  width="40" heigh="40" /></a>
 <!---
 thota18411/thota18411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
