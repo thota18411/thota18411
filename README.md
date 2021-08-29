@@ -1,4 +1,5 @@
-<h1><center>Tran Anh Tho</center></h1>
+<img src="3.png" width="500" height="510" alt="Logo">
+<center><h1>Tran Anh Tho</h1></center>
 - 👋 Hi, I’m @thota18411
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
