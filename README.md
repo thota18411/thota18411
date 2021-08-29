@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Data Analysis <br/>
 - 💞️ I’m looking to collaborate on Data Industry <br/>
 <h2>Reach me on social media</h2>
-
+<img src="git.png" width="50" heigh="50" href="https://github.com/thota18411">
 <!---
 thota18411/thota18411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
