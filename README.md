@@ -1,10 +1,10 @@
 <img src="AT.png">
 <center><h1>Tran Anh Tho</h1></center>
-- 👋 Hi, I’m @thota18411
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tho <br/>
+- 👀 I’m a Data Learner
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking to collaborate on Data Industry
+<h2>Reach me on social media</h2>
 
 <!---
 thota18411/thota18411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
