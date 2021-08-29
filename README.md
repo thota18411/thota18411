@@ -1,4 +1,4 @@
-<img src="3.png" width="500" height="510" alt="Logo">
+<img src="AT.png">
 <center><h1>Tran Anh Tho</h1></center>
 - 👋 Hi, I’m @thota18411
 - 👀 I’m interested in ...
