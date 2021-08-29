@@ -1,9 +1,9 @@
 <img src="AT.png">
 <center><h1>Tran Anh Tho</h1></center>
 - 👋 Hi, I’m Tho <br/>
-- 👀 I’m a Data Learner
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Data Industry
+- 👀 I’m a Data Learner <br/>
+- 🌱 I’m currently learning Data Analysis <br/>
+- 💞️ I’m looking to collaborate on Data Industry <br/>
 <h2>Reach me on social media</h2>
 
 <!---
